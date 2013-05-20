@@ -3,6 +3,12 @@ bin/
 bin-debug/
 bin-release/
 
+# Flash builder files
+html-template/
+.metadata/
+.actionScriptProperties
+.project
+
 # Other files and folders
 .settings/
 

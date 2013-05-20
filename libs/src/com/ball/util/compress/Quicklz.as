@@ -1,4 +1,4 @@
-package com.ball.compress {
+package com.ball.util.compress {
 	import flash.system.System;
 	import flash.utils.ByteArray;
 	import flash.utils.getTimer;

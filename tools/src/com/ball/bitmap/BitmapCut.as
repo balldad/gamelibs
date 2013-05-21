@@ -16,7 +16,7 @@ package com.ball.util.bitmap
 	import mx.graphics.codec.PNGEncoder;
 	
 	/**
-	 * 切图类,运行环境为AIR3.4以上版本 
+	 * Bitmap cut, need air 3.4 or later
 	 * @author Jerry
 	 * 
 	 */
@@ -38,7 +38,7 @@ package com.ball.util.bitmap
 		}
 		
 		/**
-		 * 读文件,适用于Air环境 
+		 * Read local file, only in air
 		 * @param uri
 		 * @return 
 		 * 
@@ -56,7 +56,7 @@ package com.ball.util.bitmap
 		}
 		
 		/**
-		 * 写文件,适用于Air环境 
+		 * Write local file, only in air
 		 * @param uri
 		 * @param bytes
 		 * 
